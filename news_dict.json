@@ -1,92 +1,92 @@
 {
-    "521158": {
-        "article_date_timestamp": 1623417292.0,
-        "article_title": "Роскомнадзор отчитался о результатах проверки иностранных IT-компаний",
-        "article_url": "https://www.securitylab.ru/news/521158.php",
-        "article_desc": "Роскомнадзор опубликовал отчёт по результатам проверки западных IT- и медиакомпаний на предмет соблюдения российского законодательства."
+    "533237": {
+        "article_date_timestamp": 1660388400.0,
+        "article_title": "Фишинговая кампания использует Google Cloud, чтобы выдать себя за мирового ритейлера",
+        "article_url": "https://www.securitylab.ru/news/533237.php",
+        "article_desc": "Но ошибки в письме выдали злоумышленника."
     },
-    "521157": {
-        "article_date_timestamp": 1623416741.0,
-        "article_title": "Великобритания введет санкции против киберпреступников",
-        "article_url": "https://www.securitylab.ru/news/521157.php",
-        "article_desc": "Британские власти рассмотрят возможность включения в свои черные списки хакеров-вымогателей"
+    "533241": {
+        "article_date_timestamp": 1660385720.0,
+        "article_title": "Исследователь безопасности разработал устройство, выявляющее слежку за человеком",
+        "article_url": "https://www.securitylab.ru/news/533241.php",
+        "article_desc": "Хакер Мэтт Эдмондсон взялся за разработку устройства, так как вопрос шел о жизни и смерти"
     },
-    "521155": {
-        "article_date_timestamp": 1623413917.0,
-        "article_title": "Обнаружена мошенническая схема обмана Wildberries через подставных продавцов",
-        "article_url": "https://www.securitylab.ru/news/521155.php",
-        "article_desc": "В процессе оплаты мошенники намеренно совершали ошибку, и оплата отклонялась, при этом в Wildberries отображалась продажа, и деньги уходили подставному продавцу."
+    "533240": {
+        "article_date_timestamp": 1660375152.0,
+        "article_title": "TAdviser: На рынок труда вышли тысячи сотрудников иностранных ИТ-компаний, покинувших Россию",
+        "article_url": "https://www.securitylab.ru/news/533240.php",
+        "article_desc": "Представители российских компаний зафиксировали резкое увеличение кандидатов, имеющих опыт работы в Intel, Microsoft, SAP, HP, IBM, Siemens и других зарубежных вендоров."
     },
-    "521156": {
-        "article_date_timestamp": 1623407185.0,
-        "article_title": "Хакеры взломали сеть McDonald’s в США, Южной Корее и на Тайване",
-        "article_url": "https://www.securitylab.ru/news/521156.php",
-        "article_desc": "Хакерская атака могла затронуть и подразделения компании в России."
+    "533239": {
+        "article_date_timestamp": 1660366800.0,
+        "article_title": "Восстановление систем здравоохранения Великобритании займет 1 месяц",
+        "article_url": "https://www.securitylab.ru/news/533239.php",
+        "article_desc": "Работа медицинских служб сильно ограничена на данный момент."
     },
-    "521150": {
-        "article_date_timestamp": 1623403848.0,
-        "article_title": "Google улучшит результаты поисковых запросов для борьбы с преследованиями в Сети",
-        "article_url": "https://www.securitylab.ru/news/521150.php",
-        "article_desc": "Техногигант намерен снижать рейтинг не только обжалованного сайта, но и аналогичных вредоносных ресурсов."
+    "533235": {
+        "article_date_timestamp": 1660311000.0,
+        "article_title": "Производитель одежды HanesBrands потерял $100 млн из-за кибератаки",
+        "article_url": "https://www.securitylab.ru/news/533235.php",
+        "article_desc": "Снижение продаж, падение акций и кибератака – это самый худший квартал для компании."
     },
-    "521143": {
-        "article_date_timestamp": 1623400330.0,
-        "article_title": "Уязвимости в предустановленных приложениях Samsung позволяют следить за пользователями",
-        "article_url": "https://www.securitylab.ru/news/521143.php",
-        "article_desc": "Проблемы позволяют получить доступ к данным без согласия пользователей и перехватить контроль над устройством."
+    "533238": {
+        "article_date_timestamp": 1660309200.0,
+        "article_title": "Какие доклады прозвучат на кибертренинге CyberCamp 2022",
+        "article_url": "https://www.securitylab.ru/news/533238.php",
+        "article_desc": "Регистрируйтесь и участвуйте в кибертреннинге и онлайн-конференции CyberCamp 2022 с 14 по 16 сентября!"
     },
-    "521139": {
-        "article_date_timestamp": 1623394201.0,
-        "article_title": "Старая уязвимость в PolKit позволяет повысить права до уровня суперпользователя",
-        "article_url": "https://www.securitylab.ru/news/521139.php",
-        "article_desc": "Уязвимыми являются дистрибутивы RHEL 8, Fedora 21, Debian \"Bullseye\",  Ubuntu 20.04 и пр."
+    "533233": {
+        "article_date_timestamp": 1660307400.0,
+        "article_title": "Брандмауэр Palo Alto Networks проводит DoS-атаки на пользователей",
+        "article_url": "https://www.securitylab.ru/news/533233.php",
+        "article_desc": "Опасная уязвимость на платформе позволяет изменить конфигурацию брандмауэра и \"усыпить\" компьютер жертвы"
     },
-    "521133": {
-        "article_date_timestamp": 1623392377.0,
-        "article_title": "Хакеры распространяют вредоносы через изображения на страницах аккаунтов Steam",
-        "article_url": "https://www.securitylab.ru/news/521133.php",
-        "article_desc": "Заражение вредоносом происходит даже в том случае, если у пользователя нет учетной записи Steam."
+    "533236": {
+        "article_date_timestamp": 1660306395.0,
+        "article_title": "Facebook* и Instagram* следят за пользователями через встроенный браузер",
+        "article_url": "https://www.securitylab.ru/news/533236.php",
+        "article_desc": "Эксперт по кибербезопасности Феликс раскрыл шпионские возможности  встроенного браузера соцсетей."
     },
-    "521132": {
-        "article_date_timestamp": 1623390041.0,
-        "article_title": "Positive Technologies: злоумышленники затачивают вредоносы под атаки на виртуальную инфраструктуру",
-        "article_url": "https://www.securitylab.ru/news/521132.php",
-        "article_desc": "Разработчики вредоносного ПО все чаще стали адаптировать его под атаки на средства виртуализации."
+    "533231": {
+        "article_date_timestamp": 1660305600.0,
+        "article_title": "Уязвимости в системе Honeywell позволяют взломать здание",
+        "article_url": "https://www.securitylab.ru/news/533231.php",
+        "article_desc": "Киберпреступник может управлять температурой в здании, системой вентиляции и жизнью людей."
     },
-    "521129": {
-        "article_date_timestamp": 1623388592.0,
-        "article_title": "Обзор инцидентов безопасности за период с 5 по 11 июня 2021 года",
-        "article_url": "https://www.securitylab.ru/news/521129.php",
-        "article_desc": "Краткий обзор главных событий в мире ИБ за неделю."
+    "533228": {
+        "article_date_timestamp": 1660303843.0,
+        "article_title": "Новый дирижабль на рынке программ-вымогателей",
+        "article_url": "https://www.securitylab.ru/news/533228.php",
+        "article_desc": "Zeppelin работает по RaaS-модели и нацелен на организации критической инфраструктуры/"
     },
-    "521163": {
-        "article_date_timestamp": 1623559126.0,
-        "article_title": "Квантовые компьютеры смогут взламывать биткойн-кошельки",
-        "article_url": "https://www.securitylab.ru/news/521163.php",
-        "article_desc": "Эксперты полагают, что постквантовая криптография появится задолго до самих квантовых компьютеров."
+    "533243": {
+        "article_date_timestamp": 1660408316.0,
+        "article_title": "В России будут собирать медицинскую информацию через фитнес-трекеры",
+        "article_url": "https://www.securitylab.ru/news/533243.php",
+        "article_desc": "Фонд «Сколково» и госкорпорация «Ростех» разработали программу экспериментального правового режима в области медицины."
     },
-    "521161": {
-        "article_date_timestamp": 1623491205.0,
-        "article_title": "Власти Германии хотят заблокировать мессенджер \"Телеграм\"",
-        "article_url": "https://www.securitylab.ru/news/521161.php",
-        "article_desc": "Также владельцев хотят оштрафовать на 55млн Евро."
+    "533242": {
+        "article_date_timestamp": 1660407352.0,
+        "article_title": "Разработчик Tornado Cash арестован в Нидерландах",
+        "article_url": "https://www.securitylab.ru/news/533242.php",
+        "article_desc": "Задержанного подозревают в сокрытии преступных денежных потоков и содействии отмыванию денег."
     },
-    "521160": {
-        "article_date_timestamp": 1623484162.0,
-        "article_title": "Байден готовится к жестким переговорам с Путиным из-за кибератак",
-        "article_url": "https://www.securitylab.ru/news/521160.php",
-        "article_desc": "Глава Белого дома собирается напомнить российскому коллеге, что у США есть собственные силы, которые отвечают за кибербезопасность, и они могут выбрать в качестве цели заграничные активы Кремля."
+    "533227": {
+        "article_date_timestamp": 1660300813.0,
+        "article_title": "Уязвимости на платформе Zimbra позволяют взломать правительственные серверы",
+        "article_url": "https://www.securitylab.ru/news/533227.php",
+        "article_desc": "Две ошибки работают друг на друга и уже помогли взломать более 1000 серверов."
     },
-    "521159": {
-        "article_date_timestamp": 1623470515.0,
-        "article_title": "Хакеры использовали Slack для взлома компьютерных систем Electronic Arts",
-        "article_url": "https://www.securitylab.ru/news/521159.php",
-        "article_desc": "Хакеры запросили через Slack токен мультифакторной аутентификации у IT-службы EA для доступа к корпоративной сети."
+    "533224": {
+        "article_date_timestamp": 1660298400.0,
+        "article_title": "Новая функция проверки личности повышает защиту Google Workspace",
+        "article_url": "https://www.securitylab.ru/news/533224.php",
+        "article_desc": "Правда, доступна она только тем, для кого Google является поставщиком услуг идентификации."
     },
-    "521149": {
-        "article_date_timestamp": 1623466800.0,
-        "article_title": "Виртуальная анти-конференция «Модернизация IT-инфраструктуры с сервисами Microsoft Azure»",
-        "article_url": "https://www.securitylab.ru/news/521149.php",
-        "article_desc": ""
+    "533232": {
+        "article_date_timestamp": 1660298130.0,
+        "article_title": "Группировка Killnet опубликовала данные сотрудников американской корпорации Lockheed Martin",
+        "article_url": "https://www.securitylab.ru/news/533232.php",
+        "article_desc": "Выложены данные 400 сотрудников американского производителя оружия."
     }
 }

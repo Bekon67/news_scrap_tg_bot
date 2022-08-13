@@ -5,7 +5,7 @@
 # print(article_id)
 import json
 
-with open("news_dict.json") as file:
+with open("news_dict.json", encoding='utf-8') as file:
     news_dict = json.load(file)
 
 search_id = "520908123"

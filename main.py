@@ -3,11 +3,12 @@ import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
 import time
+import pprint
 
 
 def get_first_news():
     headers = {
-        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+        "user-agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
     }
 
     url = "https://www.securitylab.ru/news/"
@@ -24,7 +25,9 @@ def get_first_news():
 
         article_date_time = article.find("time").get("datetime")
         date_from_iso = datetime.fromisoformat(article_date_time)
+        # print(date_from_iso)
         date_time = datetime.strftime(date_from_iso, "%Y-%m-%d %H:%M:%S")
+        # print(date_time)
         article_date_timestamp = time.mktime(datetime.strptime(date_time, "%Y-%m-%d %H:%M:%S").timetuple())
 
         article_id = article_url.split("/")[-1]
@@ -39,16 +42,17 @@ def get_first_news():
             "article_desc": article_desc
         }
 
-    with open("news_dict.json", "w") as file:
+    with open("news_dict.json", "w", encoding='utf-8') as file:
         json.dump(news_dict, file, indent=4, ensure_ascii=False)
+    # print(news_dict)
 
 
 def check_news_update():
-    with open("news_dict.json") as file:
+    with open("news_dict.json", encoding='utf-8') as file:
         news_dict = json.load(file)
 
     headers = {
-        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+        "user-agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
     }
 
     url = "https://www.securitylab.ru/news/"
@@ -88,7 +92,7 @@ def check_news_update():
                 "article_desc": article_desc
             }
 
-    with open("news_dict.json", "w") as file:
+    with open("news_dict.json", "w", encoding='utf-8') as file:
         json.dump(news_dict, file, indent=4, ensure_ascii=False)
 
     return fresh_news
@@ -96,7 +100,7 @@ def check_news_update():
 
 def main():
     # get_first_news()
-    print(check_news_update())
+    pprint.pprint(check_news_update())
 
 
 if __name__ == '__main__':
